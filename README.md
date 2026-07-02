@@ -122,7 +122,7 @@ Building scalable Android & iOS applications using Flutter, Kotlin and Clean Arc
 
 <i>"First, solve the problem. Then, write the code."</i>
 
-— John Johnson
+— Deepak Oad
 
 </p>
 
