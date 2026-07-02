@@ -31,14 +31,13 @@ Building scalable Android & iOS applications using Flutter, Kotlin and Clean Arc
 </p>
 
 ---
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
+💙 Passionate Flutter & Android Developer with 2+ years of experience in building production-ready mobile applications.
 
-I'm a **Flutter & Android Developer** with **2+ years of experience** building scalable Android & iOS applications.
+🚀 Currently working on Flutter & Kotlin projects at Vayam Technologies.
 
-Currently working on production-grade mobile applications using **Flutter** and **Native Android (Kotlin)**.
-
-I enjoy building clean, scalable, high-performance mobile apps with modern architecture and best coding practices.
+✨ Experienced in:
 
 - 🚀 Flutter & Dart
 - 🤖 Kotlin & Android
@@ -58,25 +57,8 @@ I enjoy building clean, scalable, high-performance mobile apps with modern archi
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,git,github,vscode,postman,figma&perline=6"/>
 </p>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,git,github,vscode,postman,figma"/>
-
-</p>
-
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakoad&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakoad&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -132,6 +114,16 @@ I enjoy building clean, scalable, high-performance mobile apps with modern archi
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/deepakoad/deepakoad/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+— John Johnson
+
 </p>
 
 ---
