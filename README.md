@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Deepak
 
-<!--
-**deepakoad/deepakoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Flutter & Android Developer
 
-Here are some ideas to get you started:
+I'm a Mobile Application Developer from India with hands-on experience in building and maintaining Android & iOS applications using Flutter and Native Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on production-grade mobile applications, including Flutter and Kotlin-based Android projects, with a focus on clean architecture, scalable code, and high-performance user experiences.
+
+---
+
+## 💼 What I Work With
+
+- 📱 Flutter
+- 🎯 Dart
+- 🤖 Kotlin
+- ☕ Java
+- 📦 Bloc State Management
+- 🔥 Firebase
+- 🌐 REST APIs
+- 🗺️ Google Maps / Map Integration
+- 💳 Payment Gateway Integration
+- 🪪 KYC & AEPS Modules
+- 🔀 Git & GitHub
+
+---
+
+## 🌱 Currently Exploring
+
+- Clean Architecture
+- CI/CD
+- Flutter Performance Optimization
+- Native Android Best Practices
+
+---
+
+## 📈 GitHub Goals
+
+- Build high-quality open-source Flutter projects
+- Share reusable components and utilities
+- Learn and contribute to the developer community
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/deepak-oad-b7272a1a3/
+- 📧 Email: deepakoad552@gmail.com
