@@ -127,6 +127,15 @@ I enjoy building clean, scalable, high-performance mobile apps with modern archi
 
 ---
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakoad/deepakoad/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 # 📫 Connect With Me
 
 <p align="center">
